@@ -1,0 +1,19 @@
+form {
+  background-color: rgb(191, 211, 238);
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+}
+
+.containerForm,
+p {
+  font-size: 20px;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 30px;
+  font-size: 18px;
+  width: 150px;
+  margin: 0 auto;
+}
